@@ -1,0 +1,7 @@
+tensorflow==1.8
+numpy==1.16.4
+Image
+keras
+flask
+flask_cors
+gunicorn
